@@ -1,4 +1,4 @@
-update=Monday, January 16, 2017 'PMt' 05:00:32 PM
+update=Wednesday, January 18, 2017 'PMt' 09:50:14 PM
 version=1
 last_client=kicad
 [general]
@@ -72,3 +72,5 @@ LibName16=powerint
 LibName17=sensors
 LibName18=transistors
 LibName19=lib/mic5225
+LibName20=74xgxx
+LibName21=74xx
