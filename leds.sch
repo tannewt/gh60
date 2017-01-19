@@ -7,7 +7,6 @@ LIBS:dtsjw
 LIBS:oupiin_usb
 LIBS:device
 LIBS:conn
-LIBS:keyboard-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
