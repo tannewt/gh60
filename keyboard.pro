@@ -1,4 +1,4 @@
-update=Wednesday, January 18, 2017 'PMt' 09:50:14 PM
+update=Sunday, January 22, 2017 'PMt' 04:35:52 PM
 version=1
 last_client=kicad
 [general]
@@ -74,3 +74,4 @@ LibName18=transistors
 LibName19=lib/mic5225
 LibName20=74xgxx
 LibName21=74xx
+LibName22=lib/neopixel

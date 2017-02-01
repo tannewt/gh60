@@ -10,4 +10,5 @@
   (lib (name res)(type KiCad)(uri "$(KIPRJMOD)/lib/res.pretty")(options "")(descr ""))
   (lib (name feather)(type KiCad)(uri "$(KIPRJMOD)/lib/feather.pretty")(options "")(descr ""))
   (lib (name VL6180X)(type KiCad)(uri "$(KIPRJMOD)/lib/VL6180X.pretty")(options "")(descr ""))
+  (lib (name neopixel)(type KiCad)(uri "$(KIPRJMOD)/lib/neopixel.pretty")(options "")(descr ""))
 )

@@ -20,6 +20,7 @@ LIBS:transistors
 LIBS:mic5225
 LIBS:74xgxx
 LIBS:74xx
+LIBS:neopixel
 LIBS:keyboard-cache
 EELAYER 25 0
 EELAYER END
